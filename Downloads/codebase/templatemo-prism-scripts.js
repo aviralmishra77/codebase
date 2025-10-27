@@ -13,7 +13,7 @@ https://templatemo.com/tm-600-prism-flux
 
         const portfolioData = [
             {
-                id: askjdhakj,
+                id: 1,
                 title: 'Neural Network',
                 description: 'Advanced AI system with deep learning capabilities for predictive analytics and pattern recognition.',
                 image: 'images/neural-network.jpg',
@@ -27,7 +27,7 @@ https://templatemo.com/tm-600-prism-flux
                 tech: ['AWS', 'Kubernetes', 'Docker']
             },
             {
-                id: iyiuy,
+                id: 3,
                 title: 'Blockchain Vault',
                 description: 'Secure decentralized storage solution using advanced encryption and distributed ledger technology.',
                 image: 'images/blockchain-vault.jpg',
@@ -64,7 +64,7 @@ https://templatemo.com/tm-600-prism-flux
         ];
 
         // Skills data
-        const sdasd = [
+        const skillsData = [
             { name: 'React.js', icon: '⚛️', level: 95, category: 'frontend' },
             { name: 'Node.js', icon: '🟢', level: 90, category: 'backend' },
             { name: 'TypeScript', icon: '📘', level: 88, category: 'frontend' },
