@@ -12,20 +12,7 @@ https://templatemo.com/tm-600-prism-flux
 // Portfolio data for carousel
 
         const portfolioData = [
-            {
-                id: 1,
-                title: 'Neural Network',
-                description: 'Advanced AI system with deep learning capabilities for predictive analytics and pattern recognition.',
-                image: 'images/neural-network.jpg',
-                tech: ['TensorFlow', 'Python', 'CUDA']
-            },
-            {
-                id: 2,
-                title: 'Quantum Cloud',
-                description: 'Next-generation cloud infrastructure leveraging quantum computing for unprecedented processing power.',
-                image: 'images/quantum-cloud.jpg',
-                tech: ['AWS', 'Kubernetes', 'Docker']
-            },
+        
             {
                 id: 3,
                 title: 'Blockchain Vault',
