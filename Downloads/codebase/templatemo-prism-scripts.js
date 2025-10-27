@@ -11,7 +11,7 @@ https://templatemo.com/tm-600-prism-flux
 
 // Portfolio data for carousel
 
-        const portfolioData = [
+        const portfolioDataqq = [
             {
                 id: 1,
                 title: 'Neural Network',
